@@ -6,5 +6,4 @@ A pre-trained R-CNN model is used for run time
 
 Both video and images can be given as input for object detection
 
-![alt text](input_images_and_videos/Screenshot (3).png)
-
+![](Screenshot (3).png)
